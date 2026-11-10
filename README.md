@@ -67,17 +67,16 @@ The dashboard has some interactivity but is **not fully dynamic** (see the chall
 - First-time borrowers have a slightly higher default rate (11.64%) than repeat borrowers (10.41%).
 - Collections fell sharply in 2025 and need investigation.
 
-**Main recommendations:** 
 
 ## Business Recommendations
 
-1\. Support strong branches. Consider allocating more resources to Ibadan North and Lagos Island, which perform well in disbursements and collections. Include repayment history in lending decisions.
+1. Support strong branches. Consider allocating more resources to Ibadan North and Lagos Island, which perform well in disbursements and collections. Include repayment history in lending decisions.
 
-2\. Monitor business owners. Investigate factors affecting their repayments, including profitability, capital and financial obligations. Distinguish new businesses from established ones.
+2. Monitor business owners. Investigate factors affecting their repayments, including profitability, capital and financial obligations. Distinguish new businesses from established ones.
 
-3\. Strengthen customer retention. Focus on Lagos and Oyo, where customers are concentrated. Review interest rates and loan conditions to remain competitive.
+3. Strengthen customer retention. Focus on Lagos and Oyo, where customers are concentrated. Review interest rates and loan conditions to remain competitive.
 
-4\. Improve first-time borrower assessment. Introduce credit scoring, additional verification and smaller initial loans where appropriate. Consider predictive analytics when sufficient historical data is available.
+4. Improve first-time borrower assessment. Introduce credit scoring, additional verification and smaller initial loans where appropriate. Consider predictive analytics when sufficient historical data is available.
 
 ## Conclusion
 
