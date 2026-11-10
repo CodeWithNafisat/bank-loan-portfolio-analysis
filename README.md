@@ -4,8 +4,6 @@ An end-to-end banking data analytics project using **SQL** and **Excel** to revi
 
 > **Transparency note:** The dataset is synthetic. It is not real banking data and does not describe any real bank, customer or transaction. It was created to demonstrate data analytics skills.
 
-📄 **Full details:** see the [full project report (Word document)](Loan_Portfolio_Analytics_Presentation_Guide.docx) in this repository.
-
 ---
 
 ## Business Problem
@@ -50,7 +48,7 @@ The Excel dashboard has three tabs, with navigation buttons and slicers for filt
 
 The dashboard has some interactivity but is **not fully dynamic** (see the challenge below).
 
-<!-- Add dashboard screenshots here, e.g. ![Dashboard](images/dashboard.png) -->
+<img width="1012" height="614" alt="Repayment" src="https://github.com/user-attachments/assets/de6ea6f8-41a1-4cb5-8a78-a8a3cc7ac0fc" />
 
 ## Technical Challenge and Workaround
 
@@ -76,5 +74,3 @@ The dashboard has some interactivity but is **not fully dynamic** (see the chall
 This project took a synthetic loan dataset from inspection and cleaning through SQL analysis to an Excel dashboard, and turned the results into business recommendations. The Power Pivot approach did not work out, so the dashboard has limited interactivity. Rebuilding it on a full Data Model would be a natural next step.
 
 ---
-
-**Author:** Nafisat Abdulraheem
